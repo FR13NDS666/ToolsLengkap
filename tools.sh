@@ -16,11 +16,11 @@ echo $red"          Tool akan di install dalam waktu 5 detik"
 echo $red"            harap sabar menunggu yaa sayang :v("   
 sleep 1
 echo '''\a
-\033[34;1m                              _
-\033[34;1m                             / |
-\033[34;1m                             | |
-\033[34;1m                             | |
-\033[34;1m                            _|_|_ '''
+                              _
+                             / |
+                             | |
+                             | |                 
+                            _|_|_ '''
 sleep 1
 apt update && apt upgrade
 apt install nano
@@ -34,12 +34,11 @@ echo
 echo $red"         Tool akan di install dalam waktu 5 detik"
 echo $red"            harap sabar menunggu yaa sayang :v"
 sleep 1
-echo '''\a
-\033[32;1m                             ____
-\033[32;1m                            |___ \
-\033[32;1m                             __) |
-\033[32;1m                            / __/
-\033[32;1m                           |_____| '''
+echo '''\a                   ____
+                            |___ \
+                             __) |
+                            / __/
+                           |_____| '''
 sleep 1
 apt install php
 pip2 install mechanize
@@ -54,11 +53,10 @@ echo $red"         Tool akan di install dalam waktu 5 detik"
 echo $red"            harap sabar menunggu yaa sayang :v"
 sleep 1
 echo '''\a
-\033[35;1m                            _____
-\033[35;1m                           |___ /
-\033[35;1m                             |_ \
-\033[35;1m                            ___) |
-\033[35;1m                           |____/ '''
+                           |___ /
+                             |_ \
+                            ___) |
+                           |____/ '''
 sleep 1
 clear
 echo
@@ -69,11 +67,11 @@ echo $red"         Tool akan di install dalam waktu 5 detik"
 echo $red"            harap sabar menunggu yaa sayang :v"
 sleep 1
 echo '''\a
-\033[33;1m                            _  _
-\033[33;1m                           | || |
-\033[33;1m                           | || |_
-\033[33;1m                           |__   _|
-\033[33;1m                              |_| '''
+                            _  _
+                           | || |
+                           | || |_
+                           |__   _|
+                              |_| '''
 sleep 1
 clear
 echo
@@ -84,39 +82,39 @@ echo $red"         Tool akan di install dalam waktu 5 detik"
 echo $red"            harap sabar menunggu yaa sayang :v"
 sleep 1
 echo '''\a
-\033[36;1m                             ____
-\033[36;1m                            | ___|
-\033[36;1m                            |___ \
-\033[36;1m                             ___) |
-\033[36;1m                            |____/ '''
+\033[36;1m                  ____
+\033[36;1m                 | ___|
+\033[36;1m                 |___ \
+\033[36;1m                  ___) |
+\033[36;1m                 |____/ '''
 sleep 1
 clear
 echo
 echo $pur"==================="$cy" ============================="
-echo $i"Ôûê"$pu"  AUTHOR    :  FR13NDS  "$i"                  Ôûê"
-echo $i"Ôûê"$pu"  WhatsApp  :  085770555xxx"$i"              Ôûê"
-echo $i"Ôûê"$pu"  GMAIL     :  frnds3431@gmail.com"$i"   Ôûê"
-echo $i"Ôûê"$pu"  INSTAGRAM :  @andiniamubia"$i"               Ôûê"
-echo $i"Ôûê"$pu"  INSTAGRAM :  @danymaul12"$i"          Ôûê"
+echo $i"AUTHOR    :  FR13NDS  "$i"Ôûê"
+echo $i"WhatsApp  :  085770555xxx"$i"Ôûê"
+echo $i"GMAIL     :  frnds3431@gmail.com"$i"Ôûê"
+echo $i"INSTAGRAM :  @andiniamubia"$i"Ôûê"
+echo $i"INSTAGRAM :  @danymaul12"$i"Ôûê"
 echo $pur"==================="$cy" ============================="
 echo
-echo $cy"MeNu BRUTEPORCE NeWS:"
-echo $ku"["$me"1"$ku"]"$i"1.REPORT FB"
-echo $ku"["$me"2"$ku"]"$i"2.BRUTE PORCE"
-echo $ku"["$me"3"$ku"]"$i"3.BRUTE FORCE FB CRACKER"
-echo $ku"["$me"4"$ku"]"$i"4.MBF"
-echo $ku"["$me"5"$ku"]"$i"5.CLONING YAHOO"
-echo $ku"["$me"6"$ku"]"$i"6.OSIF"
-echo $ku"["$me"7"$ku"]"$i"7.PROFILEGUARD FB"
-echo $ku"["$me"8"$ku"]"$i"8.BOT REACTION FACEBOOK"
-echo $ku"["$me"9"$ku"]"$i"9.SPAM CALL"
-echo $ku"["$me"10"$ku"]"$i"10.SPAM WHATSHAPP"
-echo $ku"["$me"11"$ku"]"$i"11.YOUTUBE-DL"
-echo $ku"["$me"12"$ku"]"$i"12.LACAK LOKASI"
-echo $ku"["$me"13"$ku"]"$i"13.SPAM SMS BRUTAL TERBARU"
-echo $i"["$me"14"$i"]"$ku" EXIT"
+echo"MeNu BRUTEPORCE NeWS:"
+echo"1"$ku"]"$i"1.REPORT FB"
+echo"2"$ku"]"$i"2.BRUTE PORCE"
+echo"3"$ku"]"$i"3.BRUTE FORCE FB CRACKER"
+echo"4"$ku"]"$i"4.MBF"
+echo"5"$ku"]"$i"5.CLONING YAHOO"
+echo"6"$ku"]"$i"6.OSIF"
+echo"7"$ku"]"$i"7.PROFILEGUARD FB"
+echo"8"$ku"]"$i"8.BOT REACTION FACEBOOK"
+echo"9"$ku"]"$i"9.SPAM CALL"
+echo"10"$ku"]"$i"10.SPAM WHATSHAPP"
+echo"11"$ku"]"$i"11.YOUTUBE-DL"
+echo"12"$ku"]"$i"12.LACAK LOKASI"
+echo"13.SPAM SMS BRUTAL TERBARU"
+echo"EXIT"
 echo
-echo $pur"Ôò¡ÔöÇ["$pur"Masukkan pilihan anda"$pur"]"
+["Masukkan pilihan anda"$pur"]"
 read -p"Ôò¦ÔöÇ>> " pil
 
 if [ $pil = 1 ]
